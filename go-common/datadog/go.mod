@@ -1,3 +1,3 @@
 module github.com/m-murad/go-monorepo/go-common/datadog
 
-go 1.19
+go 1.18

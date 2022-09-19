@@ -1,3 +1,3 @@
 module github.com/m-murad/go-monorepo/services/risk-engine
 
-go 1.19
+go 1.18
