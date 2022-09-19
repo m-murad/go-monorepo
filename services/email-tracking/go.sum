@@ -1,2 +1,4 @@
 github.com/m-murad/go-monorepo/go-common/aws v0.0.0-20220919154121-e1444445b949 h1:wkoQ+R0TOh9V4iNZl9+qfTeZdVWTCZ+0hsSO9tzeFqc=
 github.com/m-murad/go-monorepo/go-common/aws v0.0.0-20220919154121-e1444445b949/go.mod h1:BLee0Ta9/+UAUr4l5DRFRodiMQ9H3BIDODMrvtm40uY=
+github.com/m-murad/go-monorepo/go-common/logger v0.0.0-20220919155156-b0a06b0b81cf h1:KiozQm9dONMIeQAg+z0kzpIWd7TA29bLxhwGFgeIZtw=
+github.com/m-murad/go-monorepo/go-common/logger v0.0.0-20220919155156-b0a06b0b81cf/go.mod h1:GvHkdlSKimYPmd2Ye438WBzFudBtHuZu6Rv/okK1SbI=

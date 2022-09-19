@@ -1,3 +1,6 @@
 # github.com/m-murad/go-monorepo/go-common/aws v0.0.0-20220919154121-e1444445b949
 ## explicit; go 1.18
 github.com/m-murad/go-monorepo/go-common/aws
+# github.com/m-murad/go-monorepo/go-common/logger v0.0.0-20220919155156-b0a06b0b81cf
+## explicit; go 1.18
+github.com/m-murad/go-monorepo/go-common/logger
